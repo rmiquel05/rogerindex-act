@@ -1,2 +1,0 @@
-# rogerindex.html
-github practica
