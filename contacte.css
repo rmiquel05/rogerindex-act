@@ -2,9 +2,12 @@ label {
     font-weight: 600;
     text-align: left;
     }
-    input, textarea{
+input, textarea{
         border: 1px solid darkgrey;
         border-radius: 4px;
         width: 100%;
         padding: 10px;
+    }
+div{
+        margin-top: 2rem;
         }
