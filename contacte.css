@@ -1,5 +1,5 @@
 label {
-    font-weight: 600;
+    font-weight: 500;
     text-align: left;
     }
 input, textarea{
@@ -12,9 +12,3 @@ div{
         margin-top: 2rem;
         }
 
-
-form{ height: 24rem;
-padding: 30px;
-font-size: 1rem;
-border-radius: 2rem;
-}
