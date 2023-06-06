@@ -19,3 +19,9 @@ padding: 30px;
 font-size: 1rem;
 border-radius: 2rem;
     }
+    header{
+        background-color:rgb(246, 208, 165);
+        padding: 10px;
+        text-align: center;
+        font-weight: 600;
+        }

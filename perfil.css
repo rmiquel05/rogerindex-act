@@ -1,4 +1,9 @@
-
+header{
+  background-color:rgb(20, 231, 210);
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+  }
 table {
   color: red;
   text-align: center;
